@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+
+# Manim output
+media/
+
+# Generated files (large)
+audio/
+output/
+final.mp4
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
