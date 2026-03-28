@@ -1,5 +1,10 @@
 # TMLE Explanation Video Generator
 
+[![GitHub stars](https://img.shields.io/github/stars/htlin222/TMLE-explain)](https://github.com/htlin222/TMLE-explain/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/htlin222/TMLE-explain)](https://github.com/htlin222/TMLE-explain/commits/main)
+[![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A Manim-based video generator for explaining **Targeted Maximum Likelihood Estimation (TMLE)** with Chinese TTS narration.
 
 ## Quick Start
